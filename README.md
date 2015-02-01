@@ -1,4 +1,4 @@
-MyActionPvP
+MinigameMC
 ===========
 
-a version of ActionPvP's ActionPvP
+a version of MinigameMC's "MinigameMC"
